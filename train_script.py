@@ -9,7 +9,7 @@ import os
 import math
 
 # Parameters
-STRATEGY_ID = 3
+STRATEGY_ID = 1
 
 
 MAX_EPISODES = 5000
